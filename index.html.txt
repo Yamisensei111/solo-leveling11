@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Solo Leveling Workout App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- RS Donation Button -->
+    <div id="donate" class="donate">
+        <span>RS</span>
+    </div>
+
+    <!-- Particle Effect Section -->
+    <div id="particles-js"></div>
+
+    <!-- World Leaderboard -->
+    <div id="leaderboard">
+        <h2>World Leaderboard</h2>
+        <ul id="top-players">
+            <li>1. Player 1</li>
+            <li>2. Player 2</li>
+            <li>3. Player 3</li>
+        </ul>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
